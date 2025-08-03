@@ -1,8 +1,5 @@
-# SuwaMadura
 <img width="1872" height="893" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/deef68ae-c4a1-40f9-a641-5e12639344db" />
 <img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/6ff57ac4-3b90-47a7-b091-252d7a6867a9" />
-
-
 <img width="1898" height="882" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/a0dc99a6-275f-42f8-8e4e-85ce635c8c4b" />
 <img width="1899" height="883" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/0e834890-9cba-4b7e-a690-c0fee2aa3541" />
 <img width="1897" height="891" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/112cedb5-4b75-4244-9e2d-f23834269971" />
