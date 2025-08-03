@@ -1,2 +1,16 @@
-# SuwaMadura-
+# SuwaMadura
 <img width="1872" height="893" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/deef68ae-c4a1-40f9-a641-5e12639344db" />
+<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/6ff57ac4-3b90-47a7-b091-252d7a6867a9" />
+
+
+<img width="1898" height="882" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/a0dc99a6-275f-42f8-8e4e-85ce635c8c4b" />
+<img width="1899" height="883" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/0e834890-9cba-4b7e-a690-c0fee2aa3541" />
+<img width="1897" height="891" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/112cedb5-4b75-4244-9e2d-f23834269971" />
+<img width="1901" height="893" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/56492cdb-63fa-415f-8228-650493095849" />
+<img width="1876" height="884" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/f00261f5-3bd7-423c-a8c1-7a40cc42c30d" />
+<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/9e1180aa-8dcd-452b-af09-2e0c6eea1f89" />
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/ba31ea63-f527-41a7-9fbd-abc174363718" />
+<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/6fbdcdcc-ce04-401a-851b-438909db97c7" />
+<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/6714a550-eb4b-4ad3-b92c-455d7aa784e2" />
+<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/52c1eef8-e0a7-4041-95dc-79ffbae8a62b" />
+<img width="1896" height="893" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/ac0da9ab-b99b-46ba-b6d8-428d1df0e35e" />
